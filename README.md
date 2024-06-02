@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konika Sahu</h1>
-<h3 align="center">A passionate Data Analyst from India, working in Python and MySQL, still a learner, looking for opportunities to upskill myself and implement my learning in real world.</h3>
+<h3 align="center">A passionate Backend Developer from India, working in Php Laravel, Python and MySQL, still a learner, looking for opportunities to upskill myself and implement my learning in real world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konika-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="konika-sahu" /> </p>
 
